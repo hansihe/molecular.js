@@ -1,4 +1,4 @@
 molecular.js
 ============
 
-Ultra-simple liberary for modulear javascript
+Ultra-simple library for modulear javascript
